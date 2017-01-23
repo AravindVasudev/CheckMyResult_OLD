@@ -1,0 +1,22 @@
+{
+  "name": "checkmyresult",
+  "version": "0.1.0",
+  "description": "A simple helper to check Anna University results under high server load.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AravindVasudev/CheckMyResult.git"
+  },
+  "author": "aravindvasudev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AravindVasudev/CheckMyResult/issues"
+  },
+  "homepage": "https://github.com/AravindVasudev/CheckMyResult#readme",
+  "dependencies": {
+    "nightmare": "^2.9.1"
+  }
+}
