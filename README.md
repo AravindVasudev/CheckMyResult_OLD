@@ -4,7 +4,7 @@
 
 > A simple helper script to check Anna University semester result under high traffic.
 
-#### This project is moved to [https://github.com/AravindVasudev/CheckMyResult]()
+#### This project is moved to [https://github.com/AravindVasudev/CheckMyResult](https://github.com/AravindVasudev/CheckMyResult)
 
 ## What does this actually do?
 
